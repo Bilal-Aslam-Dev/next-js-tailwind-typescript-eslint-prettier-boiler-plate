@@ -12,7 +12,7 @@ const CommonInput: FC<IPType> = ({ inpName, type, errorName }) => {
     <>
       <Field
         className="border rounded-md block py-1.5 px-4"
-        placeholder="type"
+        placeholder={type}
         name={inpName}
         type={type}
       />
