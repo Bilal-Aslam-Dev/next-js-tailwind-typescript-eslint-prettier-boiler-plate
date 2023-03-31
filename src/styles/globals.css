@@ -5,3 +5,7 @@
 * {
   font-family: sans-serif;
 }
+
+body {
+  @apply flex flex-col items-center
+}

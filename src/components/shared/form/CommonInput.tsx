@@ -11,12 +11,12 @@ const CommonInput: FC<IPType> = ({ inpName, type, errorName }) => {
   return (
     <>
       <Field
-        className="border rounded-md block py-1.5 px-4"
-        placeholder={type}
+        className="border w-full rounded-md block py-1.5 px-4"
+        placeholder={`Enter ${inpName}`}
         name={inpName}
         type={type}
       />
-      <span className="text-red-500 text-sm">
+      <span className="text-red-500 select-none text-base">
         <ErrorMessage name={errorName} />
       </span>
     </>
