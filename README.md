@@ -14,12 +14,16 @@ pnpm dev
 
 ## Tools Confgiured
 1- Typescript
+
 2- Husky (lint-staged)
+
 3- Eslint/Prettier
 
 ## Dependencies and Libraries
 3- TailwindCSS
+
 4- Formik (form handler)
+
 5- Yup (form validator)
 
 Check package.json for more information
