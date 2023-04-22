@@ -7,7 +7,7 @@ STEPS TO RUN THE PROJECT:
 1- Install the modules:
 ``npm i ``
 
-2- Configure husky
+2- Configure husky:
 ``npm run prepare``
 
 3- Run the development server:
