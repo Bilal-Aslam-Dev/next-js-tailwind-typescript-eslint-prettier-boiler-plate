@@ -2,8 +2,15 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-First, run the development server:
+STEPS TO RUN THE PROJECT:
 
+1- Install the modiles:
+``npm i ``
+
+2- Configure husky
+``npm run prepare``
+
+3- Run the development server:
 ```bash
 npm run dev
 # or
@@ -11,6 +18,8 @@ yarn dev
 # or
 pnpm dev
 ```
+2-
+
 
 ## Tools Confgiured
 1- Typescript
@@ -20,10 +29,10 @@ pnpm dev
 3- Eslint/Prettier
 
 ## Dependencies and Libraries
-3- TailwindCSS
+4- TailwindCSS
 
-4- Formik (form handler)
+5- Formik (form handler)
 
-5- Yup (form validator)
+6- Yup (form validator)
 
 Check package.json for more information
