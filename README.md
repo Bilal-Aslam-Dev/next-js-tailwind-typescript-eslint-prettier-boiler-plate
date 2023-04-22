@@ -18,8 +18,6 @@ yarn dev
 # or
 pnpm dev
 ```
-2-
-
 
 ## Tools Confgiured
 1- Typescript
