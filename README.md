@@ -4,7 +4,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 STEPS TO RUN THE PROJECT:
 
-1- Install the modiles:
+1- Install the modules:
 ``npm i ``
 
 2- Configure husky
